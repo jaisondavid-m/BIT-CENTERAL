@@ -12,6 +12,7 @@ import {
 } from "lucide-react";
 
 export const publicLinks = [
+  { label: "Guides 📚", href: "/guides" },
   { label: "About", href: "/about" },
   { label: "Developer", href: "/developer" },
   { label: "Support Dev ❤️", href: "/support-dev" },
@@ -19,6 +20,7 @@ export const publicLinks = [
   { label: "Wi-Fi Details", href: "/wifi-details" },
   { label: "FAQ", href: "/faq" },
   { label: "Contact", href: "/contact" },
+  { label: "Disclaimer", href: "/disclaimer" },
 ];
 
 export const developerProfile = {

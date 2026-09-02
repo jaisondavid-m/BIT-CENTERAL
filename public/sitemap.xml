@@ -1,63 +1,129 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml font-size="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bitcentral.bitsathy.in/</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://bitcentral.bitsathy.in/about</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <loc>https://bitcentral.bitsathy.in/guides</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/guides/academic-resources-guide</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://bitcentral.bitsathy.in/guides/semester-examination-guide</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/guides/exam-hall-finder-guide</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/guides/question-bank-guide</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/guides/attendance-guide</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/guides/mess-schedule-guide</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/guides/first-year-guide</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/guides/campus-facilities-guide</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/guides/platform-guide</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/about</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
     <loc>https://bitcentral.bitsathy.in/developer</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bitcentral.bitsathy.in/features</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://bitcentral.bitsathy.in/wifi-details</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bitcentral.bitsathy.in/faq</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.85</priority>
   </url>
   <url>
     <loc>https://bitcentral.bitsathy.in/contact</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://bitcentral.bitsathy.in/support-dev</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://bitcentral.bitsathy.in/privacy-policy</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://bitcentral.bitsathy.in/terms</loc>
-    <lastmod>2026-09-01T02:25:49.918Z</lastmod>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bitcentral.bitsathy.in/disclaimer</loc>
+    <lastmod>2026-09-02T03:20:48.271Z</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>

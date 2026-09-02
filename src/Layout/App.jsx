@@ -37,6 +37,9 @@ const PaymentSuccessful = lazy(() => import("../Pages/PaymentSuccessful.jsx"));
 const WifiDetails = lazy(() => import("../Pages/WifiDetails.jsx"));
 const AK22PH202 = lazy(() => import("../Pages/answers/AK__22PH202.jsx"));
 const AnswerKey22HS006 = lazy(() => import("../Pages/answers/AnswerKey22HS006.jsx"));
+const GuidesHub = lazy(() => import("../Pages/GuidesHub.jsx"));
+const GuideDetail = lazy(() => import("../Pages/GuideDetail.jsx"));
+const Disclaimer = lazy(() => import("../Pages/Disclaimer.jsx"));
 // const DocsPage = lazy(() => import("../Pages/AboutDocs.jsx"));
 const AuthScope = lazy(() => import("../routes/AuthScope.jsx"));
 const ProtectedRoute = lazy(() => import("../routes/ProtectedRoute.jsx"));
@@ -145,6 +148,9 @@ function App() {
           />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/terms" element={<Terms />} />
+          <Route path="/disclaimer" element={<Disclaimer />} />
+          <Route path="/guides" element={<GuidesHub />} />
+          <Route path="/guides/:slug" element={<GuideDetail />} />
           <Route path="/" element={<LandingPage />} />
           <Route path="/about" element={<About />} />
           <Route path="/developer" element={<Developer />} />
